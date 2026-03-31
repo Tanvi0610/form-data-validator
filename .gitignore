@@ -4,3 +4,5 @@ venv/
 aadhaar.pdf
 marksheet.pdf
 pan.pdf
+photo_debug.png
+*.png
